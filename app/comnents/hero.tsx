@@ -7,7 +7,7 @@ export default function Hero() {
          <h1 className="text-3x1">RYAN MAULANA</h1>
          <Profile />
          <p>
-         Saya Adalah seorang mahasiswa Jurusan sistem informasi Semester 5 di Universitas 
+         Saya Adalah seorang mahasiswa Jurusan sistem informasi Semester 5 di Universitas Ma'soem angkatan 22 
          </p>
        </div>
      );

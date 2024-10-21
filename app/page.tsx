@@ -12,6 +12,7 @@ import FavColor from "./comnents/favColor";
       <RiwayatPendidikan />
       <RiwayatPekerjaan />
       <FavColor/>
+
     </section>
   );
 }
